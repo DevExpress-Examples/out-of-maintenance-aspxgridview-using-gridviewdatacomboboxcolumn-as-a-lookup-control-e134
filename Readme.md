@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Using GridViewDataComboBoxColumn as a lookup control
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e134/)**
+<!-- run online end -->
 
 
 <p>This demo implements lookup functionality using the following two techniques:<br />
